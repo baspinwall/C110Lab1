@@ -3,6 +3,8 @@
 - My family has a pet corgi
 - I interned at The Trade Desk over the summer
 - Familiar with C++, C#, Python, SQL
+  
+[README.md](README.md)
 
 ##### My favorite cuisines
 1. Chinese
@@ -15,7 +17,7 @@
 `print("For NASA, space is still a high priority. (Vice President Dan Quayle, 9/5/90)")`
 
 [more brilliance](https://www.bauer.uh.edu/rsusmel/Other/Quayle.htm)
-[README.md](README.md)
+
 ![dan](https://www.azquotes.com/picture-quotes/quote-i-believe-we-are-on-an-irreversible-trend-toward-more-freedom-and-democracy-but-that-dan-quayle-23-78-53.jpg)
 
 - [x] Create a user page
